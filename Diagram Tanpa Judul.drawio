@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T04:20:27.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="_tguGpevZneoNlxJ4m0x" version="20.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-12T06:07:37.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="TPku7Dh9fs93oeiFS4jC" version="20.6.2" type="github" pages="2">
   <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
     <mxGraphModel dx="1021" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -162,7 +162,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Kbe5pRDjoUOaABtaBt1t" name="Halaman-2">
-    <mxGraphModel dx="1335" dy="1920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1085" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -282,14 +282,23 @@
         <mxCell id="VTQutBNm3Poeq-Y33hmm-34" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1360" y="-90" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VTQutBNm3Poeq-Y33hmm-47" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.393;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VTQutBNm3Poeq-Y33hmm-37" target="VTQutBNm3Poeq-Y33hmm-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VTQutBNm3Poeq-Y33hmm-37" value="jika k = var nam - 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1540" y="-270" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="VTQutBNm3Poeq-Y33hmm-39" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1470" y="-220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VTQutBNm3Poeq-Y33hmm-40" value="jika k = var nam - 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2640" y="-420" width="160" height="150" as="geometry" />
+        <mxCell id="VTQutBNm3Poeq-Y33hmm-45" value="big = false" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="-35" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VTQutBNm3Poeq-Y33hmm-46" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="-90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VTQutBNm3Poeq-Y33hmm-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VTQutBNm3Poeq-Y33hmm-46" target="VTQutBNm3Poeq-Y33hmm-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
